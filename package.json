@@ -1,0 +1,16 @@
+{
+  "name": "gmt-widgets-demo",
+  "version": "1.0.0",
+  "description": "GMT Widgets Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.2",
+    "rollup-plugin-svelte": "^7.1.4",
+    "svelte": "^3.59.1"
+  }
+}
